@@ -8,7 +8,7 @@ Purpose of this repo is for the participants to share their code in an online re
 * Commit your trial code in a folder with your name.
 * Include a readme.md file or comments to explain your code.
 * Edit/update your code online or from your local repo with update comments.
-* Share your code link in slack.
+* Share your code link in slack, if slackbot does not post your update in slack channel #learning python
 
 ### Mardown Cheatsheet
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
