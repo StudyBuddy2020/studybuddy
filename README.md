@@ -9,3 +9,6 @@ Commit your trial code in a folder with your name.
 Include a readme.md file or comments to explain your code.
 Edit/update your code online or from your local repo with update comments.
 Share your code link in slack.
+
+### Mardown Cheatsheet
+https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
