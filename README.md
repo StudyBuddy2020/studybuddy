@@ -10,5 +10,10 @@ Purpose of this repo is for the participants to share their code in an online re
 * Edit/update your code online or from your local repo with update comments.
 * Share your code link in slack - if slackbot does not already post your update in slack channel #github-updates
 
+### StudyBuddy documents posted for participants
+* Python install videos
+* Python install presentations
+
+
 ### Mardown Cheatsheet
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
