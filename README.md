@@ -1,5 +1,9 @@
 # StudyBuddy Code Colab
-StudyBuddy Python code collaboration repo.
+StudyBuddy Python code collaboration repo. 
+
+### Buckle Up the fun is about to begin!!!
+
+ ![picture alt](https://i.pinimg.com/originals/48/46/27/484627aacec4fc7fbdee8f2c31967ee4.gif "Title is optional")
 
 ### Purpose
 Purpose of this repo is for the participants to share their code in an online repo for a more realistic software development experience.
