@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+msg="This is Meghana's first Python program"
+print(msg)
+msg="Changing the message now"
+print(msg)
+print("I don't HAVE to create a variable")
+'Is this ignored?'
