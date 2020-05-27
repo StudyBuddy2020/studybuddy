@@ -6,7 +6,7 @@ This chapter contains following materials -
 2. Chapter 2 jupyter example videos in 3 parts.
 3. Chapter 2 FAQ.
 
-2. Introduction to Python data structures
+ Introduction to Python data structures
 a) Lists.
 b) Dictionaries.
 c) Tuples.
